@@ -1,0 +1,11 @@
+li{
+   width: 200px;
+   background-color: rgb(158, 182, 237);
+   display: flex;
+   justify-content: space-between;
+    margin: 5px;
+   padding: 5px;
+    
+    
+   
+}
